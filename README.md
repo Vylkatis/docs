@@ -1,0 +1,2 @@
+# docs
+HomeLab docs
