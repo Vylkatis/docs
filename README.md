@@ -1,2 +1,0 @@
-# docs
-Vylkatis' HomeLab docs
