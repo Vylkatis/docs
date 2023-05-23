@@ -1,3 +1,13 @@
+---
+title: My Apps
+description: 
+published: true
+date: 2023-05-23T17:35:04.650Z
+tags: truenas scale
+editor: markdown
+dateCreated: 2023-05-23T17:25:52.222Z
+---
+
 
 Train Descriptions:
 
