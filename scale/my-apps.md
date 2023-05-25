@@ -47,7 +47,8 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png" width="48" height="36" /> | **whoogle 🆕** | ✅ | A self-hosted, ad-free, privacy-respecting metasearch engine |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wikijs.png" width="48" height="36" /> | **wikijs 🆕** | ✅ | Make documentation a joy to write using Wiki.js's beautiful and intuitive interface! |
 
- Installed Services Count: **30**
+ Installed Services Count: **31**
 ___
