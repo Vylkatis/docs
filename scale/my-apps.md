@@ -24,7 +24,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia 🆕** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" width="48" height="36" /> | **cert-manager 🆕** | 👔 | Certificate management for Kubernetes |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app<sup>x4</sup> 🆕** | ✅ | Advanced tool to create your own TrueCharts-based App |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app<sup>x4</sup>** | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/emulatorjs.png" width="48" height="36" /> | **emulatorjs** | ✅ | Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x2</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
@@ -45,7 +45,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden 🆕** | 👔 | Unofficial Bitwarden compatible server written in Rust |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy 🆕** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png" width="48" height="36" /> | **whoogle** | ✅ | A self-hosted, ad-free, privacy-respecting metasearch engine |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wikijs.png" width="48" height="36" /> | **wikijs** | ✅ | Make documentation a joy to write using Wiki.js's beautiful and intuitive interface! |
 
