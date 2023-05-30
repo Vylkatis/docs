@@ -34,7 +34,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openldap.png" width="48" height="36" /> | **openldap** | ✅ | Community developed LDAP software |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/phpldapadmin.png" width="48" height="36" /> | **phpldapadmin** | ✅ | Web-based LDAP browser to manage your LDAP server |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex.png" width="48" height="36" /> | **plex 🆕** | ✅ | Plex Media Server |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex.png" width="48" height="36" /> | **plex** | ✅ | Plex Media Server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pretend-youre-xyzzy.png" width="48" height="36" /> | **pretend-youre-xyzzy** | ✅ | pretend-youre-xyzzy, a cards against humanity clone |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png" width="48" height="36" /> | **qbittorrent** | ✅ | qBittorrent is a cross-platform free and open-source BitTorrent client |
