@@ -23,7 +23,7 @@ Train Descriptions:
 | :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" width="48" height="36" /> | **cert-manager** | 👔 | Certificate management for Kubernetes |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="48" height="36" /> | **clusterissuer 🆕** | 👔 | Certificate management for Kubernetes |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app<sup>x4</sup>** | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x4</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
