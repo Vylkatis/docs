@@ -25,7 +25,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png" width="48" height="36" /> | **bazarr** | ✅ | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="48" height="36" /> | **clusterissuer** | 👔 | Certificate management for Kubernetes |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app<sup>x4</sup>** | ✅ | Advanced tool to create your own TrueCharts-based App |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/discordgsm.png" width="48" height="36" /> | **discordgsm 🆕** | ✅ | A discord bot that monitors your game server and tracks the live data of your game servers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x4</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png" width="48" height="36" /> | **jellyfin** | ✅ | Jellyfin is a Free Software Media System |
@@ -46,5 +45,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/whoogle.png" width="48" height="36" /> | **whoogle** | ✅ | A self-hosted, ad-free, privacy-respecting metasearch engine |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wikijs.png" width="48" height="36" /> | **wikijs** | ✅ | Make documentation a joy to write using Wiki.js's beautiful and intuitive interface! |
 
- Installed Services Count: **30**
+ Installed Services Count: **29**
 ___
