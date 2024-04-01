@@ -34,6 +34,7 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -49,8 +50,12 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+    //image: '',
     navbar: {
       title: "Vylkatis' Homelab",
       logo: {
@@ -58,13 +63,24 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        //left
         {
           type: 'docSidebar',
           sidebarId: 'docSidebar',
           position: 'left',
           label: 'Docs',
         },
-       // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          to: '/truenas_scale/my_apps', 
+          label: 'My Apps', 
+          position: 'left'
+        },
+        //right
+        {
+          href: 'https://links.vyltech.com',
+          position: 'right',
+          label: 'My links',
+        },
         {
           href: 'https://github.com/vylkatis/docs',
           position: 'right',
@@ -74,7 +90,7 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'dark', /*
       links: [
         {
           title: 'Docs',
@@ -97,17 +113,17 @@ const config: Config = {
         {
           title: 'More',
           items: [
-           /* {
+            {
               label: 'Blog',
               to: '/blog',
-            }, */
+            },
             {
               label: 'GitHub',
               href: 'https://github.com/vylkatis/docs',
             },
           ],
         },
-      ],
+      ],*/
       copyright: `Copyright © ${new Date().getFullYear()} Vyltech, Vylkatis`,
     },
     prism: {
