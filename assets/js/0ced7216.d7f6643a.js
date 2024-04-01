@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[305],{1594:e=>{e.exports=JSON.parse('{"title":"Apps","description":"Here you will find apps guides","slug":"/category/apps","permalink":"/category/apps","navigation":{"previous":{"title":"Guides","permalink":"/category/guides"},"next":{"title":"Bazarr","permalink":"/truenas_scale/guides/apps/bazarr"}}}')}}]);
