@@ -39,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Vylkatis/docs/edit/main/',
         },
         blog: false, // Optional: disable the blog plugin
         theme: {
@@ -55,7 +55,8 @@ const config: Config = {
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
-    //image: '',
+    // Replace with your project's social card
+    image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: "Vylkatis' Homelab",
       logo: {
@@ -75,7 +76,7 @@ const config: Config = {
           label: 'My Apps', 
           position: 'left'
         },
-        //right
+       //right
         {
           href: 'https://links.vyltech.com',
           position: 'right',
