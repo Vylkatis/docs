@@ -1,13 +1,16 @@
 ---
 slug: /
+description: Welcome to my documentation
 ---
 
 # Intro
 
-Welcome to my documentation site
+:::info[Disclaimer]
 
-:::info
-
-This site is in constant change as it serves as personal documentation. Content may be updated, revised, or rearranged frequently without notice. Please proceed understanding that information might not always be up-to-date or finalized.
+This documentation is for personal use, to track activities related to my homelab. Making documentation is not my job. Any errors or omissions are unintentional.
 
 :::
+
+## Purpose of a Homelab
+
+## My use case

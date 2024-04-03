@@ -56,6 +56,15 @@ const config: Config = {
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
+    
+    announcementBar: {
+      id: 'warning',
+      content:'Please note that this site is forever a work in progress, information might not always be up-to-date or finalized.',
+      backgroundColor: '#4d3800',
+      textColor:'#d6cbb0',
+      isCloseable: true,
+    },
+
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
