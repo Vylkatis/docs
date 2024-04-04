@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 48,
+    "count": 49,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png",
@@ -114,6 +114,13 @@
         "name": "jellystat",
         "train": "✅",
         "description": "A free and open source Statistics App for Jellyfin.",
+        "instances": 1
+      },
+      {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kubeapps.png",
+        "name": "kubeapps",
+        "train": "🔨",
+        "description": "KubeApps is a Kubernetes-as-Apps solution",
         "instances": 1
       },
       {
