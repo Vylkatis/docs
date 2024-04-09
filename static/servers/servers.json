@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 49,
+    "count": 48,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.png",
@@ -135,13 +135,6 @@
         "name": "lldap",
         "train": "✅",
         "description": "Lightweight ldap server for authentication and user management",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mealie.png",
-        "name": "mealie",
-        "train": "✅",
-        "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend",
         "instances": 1
       },
       {
