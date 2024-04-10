@@ -1,8 +1,4 @@
 {
   "label": "Guides",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Here you will find all type of guides for Truenas Scale"
-  }
+  "position": 2
 }

@@ -44,3 +44,8 @@
 .header-github-link:hover::before {
   background-color: var(--ifm-navbar-link-hover-color);
 }
+
+footer.footer.footer--dark {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}

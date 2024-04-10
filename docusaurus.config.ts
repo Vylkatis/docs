@@ -50,6 +50,15 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+    require.resolve('docusaurus-lunr-search'),
+      {
+        indexBaseUrl: true
+      }
+    ]
+  ],
+
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
@@ -64,6 +73,12 @@ const config: Config = {
       textColor:'#d6cbb0',
       isCloseable: true,
     },
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
+        hideable: true,
+      },
+    },
 
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -76,8 +91,8 @@ const config: Config = {
       items: [
         //left
         {
-          type: 'docSidebar',
-          sidebarId: 'docSidebar',
+          type: "doc",
+          docId: "intro/index",
           position: 'left',
           label: 'Docs',
         },
