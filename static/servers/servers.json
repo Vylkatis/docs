@@ -33,7 +33,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.webp",
         "name": "clusterissuer",
         "train": "👔",
         "description": "Certificate management for Kubernetes",
@@ -89,7 +89,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/homepage.webp",
         "name": "homepage",
         "train": "✅",
         "description": "A highly customizable homepage",
@@ -103,7 +103,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyseerr.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyseerr.webp",
         "name": "jellyseerr",
         "train": "✅",
         "description": "Jellyseerr is a fork of Overseerr with support for Jellyfin and Emby. It can be used to manage requests for your media library.",
@@ -145,7 +145,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.webp",
         "name": "metallb-config",
         "train": "👔",
         "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
@@ -159,7 +159,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-java.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/minecraft-java.webp",
         "name": "minecraft-java",
         "train": "✅",
         "description": "Minecraft Java Dedicated Server",
@@ -180,7 +180,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.webp",
         "name": "n8n",
         "train": "✅",
         "description": "n8n is an extendable workflow automation tool.",
@@ -278,7 +278,7 @@
         "instances": 2
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.webp",
         "name": "speedtest-tracker",
         "train": "✅",
         "description": "Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.",
