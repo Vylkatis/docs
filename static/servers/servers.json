@@ -257,7 +257,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.webp",
         "name": "searxng",
         "train": "✅",
         "description": "Meta search engine which aggregates results from more than 70 search services.",
@@ -306,7 +306,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.webp",
         "name": "uptime-kuma",
         "train": "✅",
         "description": "A fancy self-hosted monitoring tool",
