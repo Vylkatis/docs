@@ -19,7 +19,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.webp",
         "name": "cert-manager",
         "train": "🔨",
         "description": "Cert-Manager is a kubernetes-aware certificate manager",
@@ -138,7 +138,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.webp",
         "name": "metallb",
         "train": "🔨",
         "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
