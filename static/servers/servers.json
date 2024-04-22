@@ -243,7 +243,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/radarr.webp",
         "name": "radarr",
         "train": "✅",
         "description": "A fork of Sonarr to work with movies à la Couchpotato",
