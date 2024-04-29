@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 46,
+    "count": 45,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -131,6 +131,13 @@
         "instances": 1
       },
       {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.webp",
+        "name": "metallb-config",
+        "train": "👔",
+        "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+        "instances": 1
+      },
+      {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metube.webp",
         "name": "metube",
         "train": "✅",
@@ -191,13 +198,6 @@
         "name": "openebs",
         "train": "🔨",
         "description": "OpenEBS is a umbrella chart for multiple container storage provisioners",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/palworld.webp",
-        "name": "palworld",
-        "train": "✅",
-        "description": "A custom SteamCMD chart that runs Palworld.",
         "instances": 1
       },
       {
@@ -296,13 +296,6 @@
         "name": "uptime-kuma",
         "train": "✅",
         "description": "A fancy self-hosted monitoring tool",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp",
-        "name": "wg-easy",
-        "train": "✅",
-        "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
         "instances": 1
       }
     ]
