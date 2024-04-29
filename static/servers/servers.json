@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 48,
+    "count": 46,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -37,13 +37,6 @@
         "name": "clusterissuer",
         "train": "👔",
         "description": "Certificate management for Kubernetes",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.webp",
-        "name": "custom-app",
-        "train": "✅",
-        "description": "Advanced tool to create your own TrueCharts-based App",
         "instances": 1
       },
       {
@@ -117,13 +110,6 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kubeapps.webp",
-        "name": "kubeapps",
-        "train": "🔨",
-        "description": "KubeApps is a Kubernetes-as-Apps solution",
-        "instances": 1
-      },
-      {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.webp",
         "name": "librespeed",
         "train": "✅",
@@ -141,13 +127,6 @@
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.webp",
         "name": "metallb",
         "train": "🔨",
-        "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.webp",
-        "name": "metallb-config",
-        "train": "👔",
         "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
         "instances": 1
       },
@@ -194,7 +173,7 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.webp",
         "name": "nextcloud",
         "train": "👔",
         "description": "A private cloud server that puts the control and security of your own data back into your hands.",
@@ -205,6 +184,13 @@
         "name": "notifiarr",
         "train": "✅",
         "description": "This is the unified client for Notifiarr.com. The client enables content requests from Media Bot in your Discord Server and also provides reports for Plex usage and system health among many other features.",
+        "instances": 1
+      },
+      {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/openebs.webp",
+        "name": "openebs",
+        "train": "🔨",
+        "description": "OpenEBS is a umbrella chart for multiple container storage provisioners",
         "instances": 1
       },
       {
