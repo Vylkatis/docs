@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 45,
+    "count": 44,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -51,13 +51,6 @@
         "name": "filebrowser",
         "train": "✅",
         "description": "Filebrowser provides a file managing interface within a specified directory",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/firefox.webp",
-        "name": "firefox",
-        "train": "✅",
-        "description": "a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.",
         "instances": 1
       },
       {
