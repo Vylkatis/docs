@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 44,
+    "count": 45,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -226,6 +226,13 @@
         "name": "radarr",
         "train": "✅",
         "description": "A fork of Sonarr to work with movies à la Couchpotato",
+        "instances": 1
+      },
+      {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp",
+        "name": "romm",
+        "train": "✅",
+        "description": "game library manager focused in retro gaming",
         "instances": 1
       },
       {
