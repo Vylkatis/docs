@@ -103,6 +103,13 @@
         "instances": 1
       },
       {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kasm.webp",
+        "name": "kasm",
+        "train": "✅",
+        "description": "Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services.",
+        "instances": 1
+      },
+      {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.webp",
         "name": "librespeed",
         "train": "✅",
@@ -163,13 +170,6 @@
         "name": "n8n",
         "train": "✅",
         "description": "n8n is an extendable workflow automation tool.",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/netbootxyz.webp",
-        "name": "netbootxyz",
-        "train": "✅",
-        "description": "Your favorite operating systems in one place!",
         "instances": 1
       },
       {
