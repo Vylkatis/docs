@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 45,
+    "count": 46,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -296,6 +296,13 @@
         "name": "uptime-kuma",
         "train": "✅",
         "description": "A fancy self-hosted monitoring tool",
+        "instances": 1
+      },
+      {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/valheim.webp",
+        "name": "valheim",
+        "train": "✅",
+        "description": "Valheim dedicated gameserver with automatic update and world backup support",
         "instances": 1
       }
     ]
