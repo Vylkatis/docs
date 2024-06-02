@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 46,
+    "count": 47,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -303,6 +303,13 @@
         "name": "valheim",
         "train": "✅",
         "description": "Valheim dedicated gameserver with automatic update and world backup support",
+        "instances": 1
+      },
+      {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp",
+        "name": "volsync",
+        "train": "🔨",
+        "description": "volsync is a storage backup and synchronisation tool.",
         "instances": 1
       }
     ]
