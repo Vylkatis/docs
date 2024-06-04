@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 47,
+    "count": 48,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -310,6 +310,13 @@
         "name": "volsync",
         "train": "🔨",
         "description": "volsync is a storage backup and synchronisation tool.",
+        "instances": 1
+      },
+      {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/youtransfer.webp",
+        "name": "youtransfer",
+        "train": "✅",
+        "description": "YouTransfer is a simple but elegant self-hosted file transfer sharing solution.",
         "instances": 1
       }
     ]
