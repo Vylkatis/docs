@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 48,
+    "count": 44,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -68,13 +68,6 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/gamevault-backend.webp",
-        "name": "gamevault-backend",
-        "train": "✅",
-        "description": "the self-hosted gaming platform for alternatively obtained games.",
-        "instances": 1
-      },
-      {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/homepage.webp",
         "name": "homepage",
         "train": "✅",
@@ -100,13 +93,6 @@
         "name": "jellystat",
         "train": "✅",
         "description": "A free and open source Statistics App for Jellyfin.",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kasm.webp",
-        "name": "kasm",
-        "train": "✅",
-        "description": "Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services.",
         "instances": 1
       },
       {
@@ -229,13 +215,6 @@
         "instances": 1
       },
       {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/romm.webp",
-        "name": "romm",
-        "train": "✅",
-        "description": "game library manager focused in retro gaming",
-        "instances": 1
-      },
-      {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.webp",
         "name": "scrutiny",
         "train": "✅",
@@ -310,13 +289,6 @@
         "name": "volsync",
         "train": "🔨",
         "description": "volsync is a storage backup and synchronisation tool.",
-        "instances": 1
-      },
-      {
-        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/youtransfer.webp",
-        "name": "youtransfer",
-        "train": "✅",
-        "description": "YouTransfer is a simple but elegant self-hosted file transfer sharing solution.",
         "instances": 1
       }
     ]
