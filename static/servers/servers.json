@@ -2,7 +2,7 @@
   {
     "serverName": "Scale",
     "serverDescription": "My TrueNAS Scale server",
-    "count": 44,
+    "count": 45,
     "apps": [
       {
         "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/bazarr.webp",
@@ -177,6 +177,13 @@
         "name": "openebs",
         "train": "🔨",
         "description": "OpenEBS is a umbrella chart for multiple container storage provisioners",
+        "instances": 1
+      },
+      {
+        "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/palworld.webp",
+        "name": "palworld",
+        "train": "✅",
+        "description": "A custom SteamCMD chart that runs Palworld.",
         "instances": 1
       },
       {
